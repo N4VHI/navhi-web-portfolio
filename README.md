@@ -1,37 +1,55 @@
-# 📌 Portfolio
+# Web Portfolio
 
-Welcome to my web portfolio! Here you will find information about my work, skills, professional experience, and more about me.
 
-## 🌐 Live Server
+[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=githubpages)](https://n4vhi.github.io/navhi-web-portfolio/)
+![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-[https://n4vhi.github.io/navhi-web-portfolio/](https://n4vhi.github.io/navhi-web-portfolio/)
-
-## 🌎 Preview
-
-![image](https://github.com/user-attachments/assets/a878c90c-a06d-4db1-a62f-894e8c4a7abc)
-
-## 🚀 Technologies Used
-
-This project was developed using the following technologies:
-
-### **HTML** 🏗️
-
-- It was the main language used to structure the web page.
-- I used a framework to build my `index.html` file with best practices and ensure responsiveness for mobile devices.
-  
-### **CSS** 🎨
-
-- **ALL** styles and animations were created using this language.
-- I designed different layouts depending on the device (responsive design).
-- I used variables to implement both light and dark modes.
-
-### **JavaScript** ⚡
-
-- I used it to connect switches so that when one is activated, another can also be triggered.
-- I created different classes to manage the light and dark themes.
-- I implemented a dictionary with translations so the portfolio can be available in two languages.
 
 ---
 
-📫 Feel free to contact me if you have any suggestions or proposals!
+## Overview
 
+Personal web portfolio presenting my projects, technical skills, and professional experience in data, analytics, and development.  
+Designed with a focus on clean structure, performance, and responsive user experience.
+
+---
+
+## Live Demo
+
+https://n4vhi.github.io/navhi-web-portfolio/
+
+---
+
+## Preview
+
+<p align="center">
+    <img src="media/screenshot.png" width="600">
+</p>
+
+---
+
+## Tech Stack
+
+### HTML
+- Semantic and accessible page structure.
+- Modular layout for maintainability.
+- Responsive foundation for multiple devices.
+
+### CSS
+- Custom styling and animations without external frameworks.
+- Responsive layouts using modern CSS techniques.
+- Light and dark mode implemented with CSS variables.
+
+### JavaScript
+- Theme switching and UI state synchronization.
+- Internationalization through translation dictionaries.
+- Dynamic class handling for interactive behavior.
+
+---
+
+## Contact
+
+For feedback, collaboration opportunities, or professional inquiries, feel free to reach out.
