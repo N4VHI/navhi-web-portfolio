@@ -4,7 +4,7 @@ Welcome to my web portfolio! Here you will find information about my work, skill
 
 ## 🌐 Live Server
 
-[https://n4vhi.github.io/Portfolio/](https://n4vhi.github.io/Portfolio/)
+[https://n4vhi.github.io/navhi-web-portfolio/](https://n4vhi.github.io/navhi-web-portfolio/)
 
 ## 🌎 Preview
 

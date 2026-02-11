@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Knowledge": "Conocimientos",
         "Projects": "Proyectos",
         "Experience": "Experiencia",
+        "AI Engineer": "Ingeniero de IA",
         "Data Analyst": "Analista de Datos",
         "Web Developer": "Desarrollador Web",
         "My full name is Navhi Giordano Andrade Saavedra": "Mi nombre completo es Navhi Giordano Andrade Saavedra",
@@ -58,14 +59,13 @@ document.addEventListener("DOMContentLoaded", function () {
         "Languages": "Lenguajes",
         "Project Title": "Título de Proyecto",
         "Little project description": "Pequeña descripción del proyecto",
-        "Didn't make the cut": "No pasé la entrevista",
-        "Helped in the organization of the 'First Supply Chain Congress' in UNI":
-            "Ayudé en la organización del Primer Congreso de Supply Chain en la UNI",
-        "Worked as a private teacher for school and university students": 
-            "Trabajé como profesor particular para alumnos desde primaria hasta universitarios",
         "I made this portfolio from scratch <3": "Portafolio creado desde 0 por mí <3",
         "Portfolio": "Portafolio",
-        "Website about my professional trajectory": "Web sobre mi trayectoria profesional"
+        "Website about my professional trajectory": "Web sobre mi trayectoria profesional",
+        "Repository of my EDA projects": "Repositorio de mis proyectos de EDA",
+        "Optimized cash flow through financial tracking and data analysis, identifying key budget improvement opportunities.": "Optimicé el flujo de caja a través del seguimiento financiero y análisis de datos, identificando oportunidades clave de mejora presupuestaria.",
+        "Built Python scripts to clean and standardize Alicorp trade marketing data.": "Construí scripts en Python para limpiar y estandarizar los datos de marketing comercial de Alicorp.",
+        "Designed a centralized SQL database to automate reporting and improve data access for leadership.": "Diseñé una base de datos SQL centralizada para automatizar informes y mejorar el acceso a datos para el liderazgo."
     };
 
     function toggleLanguage() {

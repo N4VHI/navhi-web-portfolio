@@ -8,14 +8,19 @@
 body{
     /*Paleta de colores*/
     --color-resaltante: #f3e594;
+    --color-resaltante1: #f3e594;
     --color-background-oscuro: #00011E;
     --color-background-oscuro-opacity: #00011Eaa;
+    --color-background-oscuro-opacity2: #00011Eaa;
     --color-background-azulito: #031B38;
     --color-elemento-oscuro: #0E6388;
     --color-elemento-oscuro-invertido: #f19c77;
+    --color-elemento-oscuro-invertido1: #f19c77;
     --color-elemento-oscuro-opacity: #0e638877;
     --color-elemento-claro: #536B88;
+    --color-elemento-claro1: #536B88;
     --color-elemento-claro-opacity: #536B8888;
+    --color-texto1: #B4D1DE;
     --color-texto: #B4D1DE;
     --color-celestito: #0AB3D9;
     --shadow: #0009; 
@@ -51,7 +56,7 @@ header{
 }
 
 .header__container{
-    color: var(--color-texto);
+    color: var(--color-texto1);
     position: relative;
     z-index: 20;
     margin: auto;
@@ -66,7 +71,7 @@ header h1{
     font-family: 'Orbitron';
     font-weight: 900;
     font-size: 70px;
-    color: var(--color-resaltante);
+    color: var(--color-resaltante1);
     transition: all 0.25s;
 }
 
@@ -88,7 +93,7 @@ header h2::after {
     position: absolute;
     height: 35px;
     width: 2px;
-    background-color: var(--color-texto);
+    background-color: var(--color-texto1);
     right: 0;
     top: 5PX;
     border-radius: 4px;
@@ -127,7 +132,7 @@ header h2::after {
 }
 
 .item-icon{
-    color: var(--color-texto);
+    color: var(--color-texto1);
     font-size: 1.9rem;
     padding: 20px 1.7rem;
     margin: 10px;
@@ -144,7 +149,7 @@ header h2::after {
 }
 
 .item-boton{
-    color: var(--color-texto);
+    color: var(--color-texto1);
     background-color: var(--color-elemento-oscuro);
     border-radius: 10px;
     padding: 10px 30px;
@@ -373,7 +378,7 @@ nav{
 
 .contenido__capa{
     position: absolute;
-    background-color: var(--color-background-oscuro-opacity);
+    background-color: var(--color-background-oscuro-opacity2);
     width: 100%;
     min-height: 100%;
     top: 0;
@@ -700,7 +705,7 @@ main{
 }
 
 .grid-item{
-    border: 3px solid var(--color-elemento-claro);
+    border: 3px solid var(--color-elemento-claro1);
     border-radius: 20px;
     padding: 10px 5px 0px 5px ;
     display: flex;
@@ -741,7 +746,7 @@ main{
 }
 
 .container-icon-conocimientos{
-    background-color: var(--color-elemento-oscuro-invertido);
+    background-color: var(--color-elemento-oscuro-invertido1);
     width: 40px;
     height: 40px;
     border-radius: 5px;
@@ -776,7 +781,7 @@ main{
 }
 
 .conocimientos__barra{
-    background-color: var(--color-texto);
+    background-color: var(--color-texto1);
     width: 15px;
     height: 9px;
     margin: 2px;
@@ -1001,6 +1006,14 @@ main{
     width: 50%;
 }
 
+.experiencia__lista__detalle{
+    padding: 4px 0px 10px 20px;
+}
+
+.experiencia__lista__detalle li{
+    padding: 9px 0px 0px 0px;
+}
+
 .experiencia__trabajo{
     color: var(--color-texto);
     list-style: none;
@@ -1149,6 +1162,7 @@ footer{
     .sobre-mi__correo {
         gap: 2px;
         height: 25px;
+        padding: 2px 5px;
         width: 100%;
     }
     .sobre-mi__correo i{
@@ -1290,18 +1304,23 @@ footer{
 /*   TEMA CLARO   */
 
 .light-mode {
-    --color-resaltante: #ca7f1c;
+    --color-resaltante: #005C02;
+    --color-resaltante1: #8EFF38;
     --color-background-oscuro: #FAF3EC;
-    --color-background-oscuro-opacity: #e6e1ddcc;
+    --color-background-oscuro-opacity: #005C02aa;
+    --color-background-oscuro-opacity2: #8EFF38aa;
     --color-background-azulito: #E8D7C6;
     --color-elemento-oscuro: #AD7C59;
     --color-elemento-oscuro-invertido: #7A4F3D;
+    --color-elemento-oscuro-invertido1: #8EFF38;
     --color-elemento-oscuro-opacity: #AD7C5977;
     --color-elemento-claro: #C9A98C;
+    --color-elemento-claro1: #5A4633;
     --color-elemento-claro-opacity: #C9A98C88;
     --color-texto: #5A4633;
-    --color-celestito: #D4A05A;
-    --shadow: rgba(255, 255, 255, 0.6); 
+    --color-texto1:#e7e1db;
+    --color-celestito: #8f6a37;
+    --shadow: rgba(255, 255, 255, 0.178); 
 }
 
 .light-header{
