@@ -26,7 +26,7 @@ https://n4vhi.github.io/navhi-web-portfolio/
 ## Preview
 
 <p align="center">
-    <img src="media/screenshot.png" width="600">
+    <img src="Media/screenshot.png" width="600">
 </p>
 
 ---
