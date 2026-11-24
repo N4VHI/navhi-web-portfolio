@@ -64,8 +64,15 @@ document.addEventListener("DOMContentLoaded", function () {
         "Website about my professional trajectory": "Web sobre mi trayectoria profesional",
         "Repository of my EDA projects": "Repositorio de mis proyectos de EDA",
         "Optimized cash flow through financial tracking and data analysis, identifying key budget improvement opportunities.": "Optimicé el flujo de caja a través del seguimiento financiero y análisis de datos, identificando oportunidades clave de mejora presupuestaria.",
+        "Trained Machine Learning models to predict insurance claims and improve risk assessment.": "Entrené modelos de Machine Learning para predecir reclamaciones de seguros y mejorar la evaluación de riesgos.",
+        "Developed automated reports to improve decision-making processes.": "Desarrollé informes automatizados para mejorar los procesos de toma de decisiones.",
         "Built Python scripts to clean and standardize Alicorp trade marketing data.": "Construí scripts en Python para limpiar y estandarizar los datos de marketing comercial de Alicorp.",
-        "Designed a centralized SQL database to automate reporting and improve data access for leadership.": "Diseñé una base de datos SQL centralizada para automatizar informes y mejorar el acceso a datos para el liderazgo."
+        "Designed a centralized SQL database to automate reporting and improve data access for leadership.": "Diseñé una base de datos SQL centralizada para automatizar informes y mejorar el acceso a datos para el liderazgo.",
+        "To-do app powered by AI to register tasks without any effort.": "Aplicación de tareas impulsada por IA para registrar tareas sin ningún esfuerzo.",
+        "Dotol": "Dotol",
+        "Portfolio": "Portafolio",
+        "RIMAC Insurance": "Seguros RIMAC",
+        "Pricing Intern": "Practicante de Precios",
     };
 
     function toggleLanguage() {
