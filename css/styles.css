@@ -560,7 +560,6 @@ main{
     justify-content: center; /* Centra verticalmente */
     text-align: center;
     height: 70vh; /* Hace que el contenedor ocupe toda la altura de la pantalla */
-    border: #ffffff 1px solid;
 }
 
 .sobre-mi__correo {
