@@ -553,13 +553,14 @@ main{
 }
 
 .sobre-mi__izquierda {
-    min-width: 15dvw;
+    min-width: 17dvw;
     display: flex;
     flex-direction: column; /* Asegura que los elementos estén en columna */
     align-items: center; /* Centra horizontalmente */
     justify-content: center; /* Centra verticalmente */
     text-align: center;
     height: 70vh; /* Hace que el contenedor ocupe toda la altura de la pantalla */
+    border: #ffffff 1px solid;
 }
 
 .sobre-mi__correo {
@@ -1168,6 +1169,7 @@ footer{
     .sobre-mi__correo i{
         font-size: 1rem;
         padding-right: 5px;
+        padding-left: 5px;
     }
     .sobre-mi__correo h3 {
         font-size: 0.7rem;
